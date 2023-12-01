@@ -1,17 +1,19 @@
-
-
 ## Number Generator Install Guide - GNU/Linux
 
-## 1. Download file for linux :  [![Download]([https://github.com/cybergas123/](https://github.com/cybergas123/filament-calc/raw/main/filament-calc)]
- 
-## 2 :  open terminal
+## 1. Download the file for Linux:
+[![Download](https://github.com/cybergas123/filament-calc/raw/main/filament-calc)]
+
+## 2. Open the terminal
 
 
-## 3 :  cd folder you downloaded it in usualy it is Downloads - cd Downloads
 
+## 3. Navigate to the folder where you downloaded the file (usually Downloads):
+cd Downloads
 
-## 4 :  chmod +x filament-calc
+## 4. Make the file executable:
+chmod +x filament-calc
 
-## 5 :  ./filament-calc
+## 5. Run the file:
+./filament-calc
 
-## 6 : press enter
+## 6. Press Enter
