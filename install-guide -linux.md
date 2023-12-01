@@ -12,6 +12,6 @@
 
 ## 4 :  chmod +x filament-calc
 
-## 5 :  ./randomnumbergenerator
+## 5 :  ./filament-calc
 
 ## 6 : press enter
