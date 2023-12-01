@@ -1,7 +1,7 @@
 ## Number Generator Install Guide - GNU/Linux
 
 ## 1. Download the file for Linux:
-[![Download](https://github.com/cybergas123/filament-calc/raw/main/filament-calc)]
+## [![Download](https://github.com/cybergas123/filament-calc/raw/main/filament-calc)]
 
 ## 2. Open the terminal
 
