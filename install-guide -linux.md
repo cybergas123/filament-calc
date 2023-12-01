@@ -5,8 +5,6 @@
 
 ## 2. Open the terminal
 
-
-
 ## 3. Navigate to the folder where you downloaded the file (usually Downloads):
 cd Downloads
 
