@@ -1,6 +1,6 @@
 # Filament-calc v0.1
 
-## For windows (forwindows.exe)
+## For windows (filament-calc-windows.exe)
 
 sleep function still not implemented so must be run in cmd
 
