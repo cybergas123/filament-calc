@@ -4,7 +4,7 @@
 
 sleep function still not implemented so must be run in cmd
 
-[Download](https://github.com/cybergas123/filament-calc/raw/main/forwindows.exe/)
+[Download](https://github.com/cybergas123/filament-calc/raw/main/filament-calc-windows.exe/)
 
 
 ## For Gnu/Linux
