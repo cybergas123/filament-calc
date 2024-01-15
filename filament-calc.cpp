@@ -5,7 +5,7 @@ using std::cout;
 
 using std::string;
 
-using std::cin;
+using std::cin; 
  
 int main(){
     //variables
