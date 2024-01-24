@@ -16,7 +16,7 @@ int main(){
     //filament used 
     float filament_used;
     //currency
-    string currency;
+    string currency; 
     //welcome text - filament weight
     cout << "Please enter the weight of filament in grams : ";
     cin >> filament_weight;
