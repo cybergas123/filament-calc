@@ -13,7 +13,7 @@ int main(){
     float filament_weight = 0;
     //price of filament - before
     float filament_price_before = 0;
-    //filament used 
+    //filament used
     float filament_used;
     //currency
     string currency; 
