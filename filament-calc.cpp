@@ -36,7 +36,6 @@ int main(){
     float price_for_filament_used = (filament_used * filament_price_before) / filament_weight;
 
     cout << "\nprice for filament you used is :  " << price_for_filament_used << " " << currency  << "\n" ;
-    
-
+   
 
 }
