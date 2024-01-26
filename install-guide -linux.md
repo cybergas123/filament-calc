@@ -6,7 +6,7 @@
 ## 2. Open the terminal
 
 ## 3. Navigate to the folder where you downloaded the file (usually Downloads):
-cd Downloads
+cd Downloads 
 
 ## 4. Make the file executable:
 chmod +x filament-calc
