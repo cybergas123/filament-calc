@@ -6,7 +6,7 @@ using std::cout;
 using std::string;
 
 using std::cin;
- 
+
 int main(){
     //variables
     //filament full weight
