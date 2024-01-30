@@ -14,4 +14,4 @@ chmod +x filament-calc
 ## 5. Run the file:
 ./filament-calc
 
-## 6. Press Enter
+## 6. Press Enter  
