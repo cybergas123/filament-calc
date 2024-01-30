@@ -1,4 +1,4 @@
-##  filament-calc Install Guide - GNU/Linuxv
+##  filament-calc Install Guide - GNU/Linux
 
 ## 1. Download the file for Linux:
 ## ![Download](https://github.com/cybergas123/filament-calc/raw/main/filament-calc)
